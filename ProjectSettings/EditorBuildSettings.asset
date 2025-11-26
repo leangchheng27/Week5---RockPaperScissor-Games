@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/BotWin.unity
     guid: 44cf26fdfdc6a401a95c485ae2bb56d3
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 3a8813cc571884364ae38fc4ad381f09
   m_configObjects: {}
